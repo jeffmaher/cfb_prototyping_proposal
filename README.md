@@ -74,5 +74,5 @@ For this project, I see myself taking on a few capacities as it gets started:
 ## Resources
 My network is the biggest resource that I have. With that said, I don't promise any funding or external support at the beginning.
 
-### CfB Tie-in
+## CfB Tie-in
 See *Project Scope* section.
