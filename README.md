@@ -32,8 +32,10 @@ For example, if we were digging into unemployment (State level):
 	- Do a prototyping and user research session (Jeff or other experienced folks can lead)
 	- Choose a service (example: online unemployment registration)
 	- Learn about the service
+	- Conduct a UX teardown (if there is a pre-existing digital service, [example](https://medium.com/@little_wow/notes-from-an-unemployed-information-architect-f5ffd87471b1))
 	- Chat with civil servants during CfB hours (i.e. phone call, video chat, civil servant comes to CfB)
 	- (Unlikely to happen, but would be good to try) Chat with folks that recently used the service  during CfB hours (i.e. phone call, video chat, civil servant comes to CfB)
+	- Document findings per UX teardown and conversations with stakeholders and users
 - **Month 2**:
 	- White board or paper prototype
 	- Create digital wireframes (Sketch/Illustrator)
