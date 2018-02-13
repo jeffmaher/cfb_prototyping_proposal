@@ -45,7 +45,7 @@ For example, if we were digging into unemployment (State level):
 - **Month 4**:
 	- (Start back at *Month 1*)
 
-Becomes CfB has lots of newcomers, every meeting would start with a re-cap of what has been accomplished with the service thus far.
+Because CfB has lots of newcomers, every meeting would start with a re-cap of what has been accomplished with the service thus far.
 
 ### Dependencies
 Interested CfB members. Even if local civil servants aren't receptive, it's still a cool opportunity to learn more about the services our localities offer and to improve members' prototype+design skills that might benefit other CfB projects.
